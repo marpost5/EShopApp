@@ -1,0 +1,10 @@
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.deps.json
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfo.cs
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\38970\Downloads\EShopApp\IS\EShop\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.pdb
